@@ -1,0 +1,2 @@
+To use this bot all you have to do is think about what you want to scan, Comments, Users, or Posts, 
+then type in a string that you want to search for
